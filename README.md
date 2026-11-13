@@ -17,24 +17,24 @@ I work on **agent infrastructure, sandbox runtimes, and SRE**. My focus is on ho
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3>↗ <a href="https://github.com/opensandbox-group/OpenSandbox">OpenSandbox</a></h3>
+<h3><a href="https://github.com/opensandbox-group/OpenSandbox">OpenSandbox</a></h3>
 <p>Sandbox infrastructure for AI applications. I maintain the egress component and contribute to the project.</p>
 <sub>EGRESS · NETWORK POLICY · AGENT INFRA</sub>
 </td>
 <td width="50%" valign="top">
-<h3>▧ <a href="https://github.com/hpliStartAgain/fast-sandbox">Fast Sandbox</a></h3>
+<h3><a href="https://github.com/hpliStartAgain/fast-sandbox">Fast Sandbox</a></h3>
 <p>A Kubernetes sandbox runtime with Firecracker microVMs, snapshot-based startup, and warm capacity.</p>
 <sub>KUBERNETES · FIRECRACKER · SNAPSHOTS</sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3>⌘ <a href="https://github.com/hpliStartAgain/minibox">minibox</a></h3>
+<h3><a href="https://github.com/hpliStartAgain/minibox">minibox</a></h3>
 <p>A small Linux container sandbox prototype in Go. Learning runtime internals by building them.</p>
 <sub>GO · LINUX NAMESPACES · PROCESS LIFECYCLE</sub>
 </td>
 <td width="50%" valign="top">
-<h3>✦ <a href="https://github.com/hpliStartAgain/memospark">MemoSpark</a></h3>
+<h3><a href="https://github.com/hpliStartAgain/memospark">MemoSpark</a></h3>
 <p>Spaced repetition, flashcards, and coding practice, with an MCP interface for AI assistants.</p>
 <sub>JAVA · TYPESCRIPT · MCP</sub>
 </td>
