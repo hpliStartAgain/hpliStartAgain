@@ -2,7 +2,7 @@
   <img src="./assets/header.svg" alt="hpliStartAgain · Agent infrastructure, sandboxes and SRE" width="100%">
 </picture>
 
-### Hi, I'm hpliStartAgain 👋
+### Hi, I'm hpli 👋
 
 I work on **agent infrastructure, sandbox runtimes, and SRE**. My focus is on how agents run code, reach external services, and stay observable.
 
